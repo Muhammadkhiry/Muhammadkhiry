@@ -1,5 +1,12 @@
 # 💫 About Me:
-Create a modern, professional GitHub Profile README.<br><br>My name is Muhammad Khairy.<br>Computer and Systems Engineering Student | Flutter Developer<br><br>About me:<br>- Passionate about Mobile Application Development.<br>- Currently specializing in Flutter.<br>- Strong interest in Clean Architecture, Firebase, REST APIs, and Software Engineering.<br>- Always learning and building real-world projects.<br>- Interested in writing maintainable, scalable, and clean code.<br>- Open to internships and junior Flutter developer opportunities.<br><br>Tech Stack:<br>Flutter • Dart • Firebase • Git • GitHub • REST APIs • OOP • Data Structures • Algorithms • VS Code • Android Studio<br><br>Currently Learning:<br>- State Management (Provider, Riverpod, Bloc)<br>- Firebase Authentication & Firestore<br>- Clean Architecture<br>- Design Patterns<br>- Performance Optimization<br><br>The README should contain:<br>- Animated Header<br>- Typing SVG<br>- About Me<br>- Tech Stack with Shields.io badges<br>- GitHub Stats<br>- Streak Stats<br>- Top Languages<br>- Trophy Section<br>- Activity Graph<br>- Visitor Counter<br>- Connect With Me<br>- Quote at the end<br><br>Use a clean black/blue color palette.<br>Make it look professional for recruiters and GitHub visitors.<br>Avoid unnecessary emojis.
+
+🎓 Computer and Systems Engineering Student from Egypt.
+📱 Flutter Developer passionate about building clean, responsive, and user-friendly mobile applications.
+💡 Interested in Software Engineering, Clean Architecture, Firebase, REST APIs, and writing scalable, maintainable code.
+🚀 Currently improving my skills in Flutter, State Management, Firebase, and mobile app architecture by building real-world projects.
+🧠 Strong foundation in Object-Oriented Programming, Data Structures, and Algorithms.
+🤝 Open to Flutter internships, junior developer opportunities, and open-source collaboration.
+📚 I believe in continuous learning and enjoy turning ideas into practical applications.
 
 
 ## 🌐 Socials:
